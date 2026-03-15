@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.ObserverPattern;
+package org.example.DesignPatterns.b_ObserverPattern;
 
 public class Main {
     public static void main(String[] args) {

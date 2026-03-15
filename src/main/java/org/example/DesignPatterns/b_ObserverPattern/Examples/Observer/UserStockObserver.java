@@ -1,9 +1,7 @@
-package org.example.DesignPatterns.ObserverPattern.Examples;
+package org.example.DesignPatterns.b_ObserverPattern.Examples.Observer;
 
-import org.example.DesignPatterns.ObserverPattern.Observable;
-import org.example.DesignPatterns.ObserverPattern.Observer;
-
-import java.util.List;
+import org.example.DesignPatterns.b_ObserverPattern.Examples.Observable.StockObservable;
+import org.example.DesignPatterns.b_ObserverPattern.Examples.PendingNotification;
 
 public class UserStockObserver implements StockObserver {
 

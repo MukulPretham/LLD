@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.ObserverPattern;
+package org.example.DesignPatterns.b_ObserverPattern;
 
 public class TVDisplayObserver implements Observer{
     Observable observing;

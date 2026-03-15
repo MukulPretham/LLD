@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.StrategyDesignPattern;
+package org.example.DesignPatterns.a_StrategyDesignPattern;
 
 // Problem
 //public class SDP1 {

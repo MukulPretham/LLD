@@ -1,7 +1,7 @@
-package org.example.DesignPatterns.ObserverPattern.Examples;
+package org.example.DesignPatterns.b_ObserverPattern.Examples.Observable;
 
-import org.example.DesignPatterns.ObserverPattern.Observable;
-import org.example.DesignPatterns.ObserverPattern.Observer;
+import org.example.DesignPatterns.b_ObserverPattern.Examples.Observer.StockObserver;
+import org.example.DesignPatterns.b_ObserverPattern.Examples.PendingNotification;
 
 import java.util.ArrayList;
 import java.util.List;
